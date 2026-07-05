@@ -1,4 +1,4 @@
-# Telco Customer Churn: Prediction and Retention Dashboard
+# Customer Churn: Prediction and Retention Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn&logoColor=white)
